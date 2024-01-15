@@ -22,7 +22,7 @@ class SavingsAccount {
     this._balance += amount;
   }
 }
-
+// comment
 class BankMember {
   private _name: string;
   private _memberId: number;
